@@ -1,0 +1,14 @@
+
+Ê
+java:S3577"†Rename class "Lab_313" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(ÔŠâ‡8°¥‹ó‹2J$662ecdb5-3895-4edd-8b19-6523b9acfa7d
+‡
+java:S18547"DRemove this useless assignment to local variable "passwordinputbox".(¡ÿýê8¦³²ó‹2J$f1d93dbc-ca75-43d3-bd75-e92b440e971c
+~	java:S125)"<This block of commented-out lines of code should be removed.(–—³Ò8±¥‹ó‹2J$cbe3995a-c2a2-435b-a57d-2221b4cd305e
+x
+java:S14817"5Remove this unused "passwordinputbox" local variable.(¡ÿýê8§³²ó‹2J$8358e67b-24e5-43b4-b810-9008c1406f92
+g
+java:S2925="$Remove this use of "Thread.sleep()".(¬Æ„°8²¥‹ó‹2J$197a6408-9fe9-4a7e-8fcc-af9d18bd57fe
+ƒ	java:S125D"<This block of commented-out lines of code should be removed.(ñÙÔÓþÿÿÿÿ8§³²ó‹2J$1501a35e-3a0f-43dc-a95e-37ebd876ed11
+ƒ	java:S125O"<This block of commented-out lines of code should be removed.(ý„ÿßþÿÿÿÿ8Î¡¹ó‹2J$12053069-4f59-4a93-ae83-815276ea1043
+g
+java:S2925V"$Remove this use of "Thread.sleep()".(¬Æ„°8§³²ó‹2J$323e0ba6-02de-4507-bd3c-e923a6315137

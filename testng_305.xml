@@ -3,10 +3,8 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/Atul/IdeaProjects/LearningSelenium_ATB6X">
         <classes>
-            <class name="com.atul.Ex_selenium.Lab_298">
-                <methods>
-                    <include name="vwologin"/>
-                </methods>
+            <class name="com.atul.Ex_selenium.Lab_305">
+
             </class>
         </classes>
     </test>
