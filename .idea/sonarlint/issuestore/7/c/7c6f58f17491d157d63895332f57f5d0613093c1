@@ -1,0 +1,11 @@
+
+Ï
+java:S3577"†Rename class "Lab_315" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(›Ÿüƒúÿÿÿÿ8Œ·ø‹Œ2J$e29ebed6-d0e3-4dc2-aa2d-ef03daf9cfff
+~	java:S125"<This block of commented-out lines of code should be removed.(–—³Ò8·ø‹Œ2J$8861e4b3-79f0-4cb2-af45-95755c49f2b9
+ƒ	java:S125="<This block of commented-out lines of code should be removed.(¼Ó¥ÿúÿÿÿÿ8ÚãŒŒ2J$aacb0f5e-c3eb-415e-b0bc-ed0e3b137fe9
+ƒ	java:S125G"<This block of commented-out lines of code should be removed.(–žßœýÿÿÿÿ8ÜÔÀŒ2J$2fc07bbd-8078-4321-9eed-1dc285797037
+~	java:S125Y"<This block of commented-out lines of code should be removed.(ç¾ŸË8Ã³ŽŒ2J$802d53cd-05a1-43d5-a497-1dd17d0d7f09
+h
+java:S2925‡"$Remove this use of "Thread.sleep()".(¬Æ„°8·ø‹Œ2J$6faf7e40-5b20-4954-8ca4-b109364512af
+q
+java:S1128".Remove this unused import 'org.testng.Assert'.(Ø£ÿ§8Ž¾’Œ2J$dd1d7a74-3903-4ee0-b456-ac8e4c69af8a

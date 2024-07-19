@@ -1,16 +1,0 @@
-
-W
-java:S1854":Remove this useless assignment to local variable "driver".(§éÛÃ8Õ¶È¶‹2
-]	java:S125"<This block of commented-out lines of code should be removed.(¦ŠØ±ýÿÿÿÿ8Ö¶È¶‹2
-X	java:S125"<This block of commented-out lines of code should be removed.(ú²Ð‰8Ö¶È¶‹2
-]	java:S125"<This block of commented-out lines of code should be removed.(ÐåüÛûÿÿÿÿ8Ö¶È¶‹2
-H
-java:S1481"+Remove this unused "driver" local variable.(§éÛÃ8Ö¶È¶‹2
-X	java:S125"<This block of commented-out lines of code should be removed.(ÛÿÞæ8å¶È¶‹2
-]	java:S125"<This block of commented-out lines of code should be removed.(÷¼ÄÎüÿÿÿÿ8å¶È¶‹2
-[
-java:S1128">Remove this unused import 'org.openqa.selenium.SearchContext'.(çÏ¤«8å¶È¶‹2
-W
-java:S1128":Remove this unused import 'org.openqa.selenium.WebDriver'.(ñšÿÀ8å¶È¶‹2
-d
-java:S1128"GRemove this unused import 'org.openqa.selenium.remote.RemoteWebDriver'.(ú£Ú—8å¶È¶‹2
