@@ -1,0 +1,15 @@
+
+Ã
+java:S3577"†Rename class "lab_318" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(Ù‰Š‚J$42344c86-cc1f-4352-9a3a-54f5c31b62bf
+¿
+java:S1130""wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(±¬ªâûÿÿÿÿ8¥Ç¯„2J$6e5adcda-ef56-4bc1-bf6e-5a5cfd0e3210
+r
+java:S1874'"6Remove this use of "implicitlyWait"; it is deprecated.(µ÷®J$e301ac0a-5292-46e1-8754-0fa7ce8470db
+w	java:S1256"<This block of commented-out lines of code should be removed.(ç§±J$e451be4d-16d0-4ea9-b162-88edcb70752b
+~	java:S125:"<This block of commented-out lines of code should be removed.(œ£ŞŸ8²½Í„2J$dc259967-5ab7-474e-8fde-4c90781cb68e
+y
+java:S1874D"6Remove this use of "implicitlyWait"; it is deprecated.(µ÷®8ùÈ¾„2J$fcc80169-441f-4d2f-b3e9-1aecb604139d
+`
+java:S2925M"$Remove this use of "Thread.sleep()".(¬Æ„°J$87acda5f-c6e4-4f1d-b3f6-68dcfec2b94e
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¥Ç¯„2J$d7d38f00-8d93-4927-97d0-23d4d3153bcd

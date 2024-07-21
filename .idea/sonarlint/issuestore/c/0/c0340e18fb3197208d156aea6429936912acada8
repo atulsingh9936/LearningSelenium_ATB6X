@@ -1,0 +1,12 @@
+
+…
+java:S3577"ÜRename class "Lab_327" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(›∫“r8ä‰Ñ¨ç2J$64edb16b-3ebd-4ebc-a2ad-ecc49e475dea
+∫
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(¿±±Ñ8ã‰Ñ¨ç2J$7acc0481-3bc7-4ec2-aad4-758aa705e40d
+É	java:S125E"<This block of commented-out lines of code should be removed.(õÊï¥¯ˇˇˇˇ8ã‰Ñ¨ç2J$725cae6b-8181-4588-834c-cc29756c0383
+g
+java:S2925d"$Remove this use of "Thread.sleep()".(¨∆Ñ∞8å‰Ñ¨ç2J$60b18e77-dcee-4394-acb2-beb39ee64913
+]
+java:S1128";Remove this unused import 'org.openqa.selenium.WebElement'.(âÔµî˛ˇˇˇˇ8ˇÇÖ¨ç2
+M
+java:S1128"+Remove this unused import 'java.util.List'.(’Î±ƒ¯ˇˇˇˇ8ˇÇÖ¨ç2

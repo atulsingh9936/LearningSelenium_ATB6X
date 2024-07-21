@@ -1,0 +1,18 @@
+
+É
+java:S3577"†Rename class "Lab_326" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(Ìëş8ì•¨2J$f7a5ec79-a564-4662-948b-94ef4cd15df1
+º
+java:S1130#"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(À±±„8î•¨2J$6e271ace-44e0-4fcc-be5f-3fb45ddd312f
+g
+java:S29257"$Remove this use of "Thread.sleep()".(¬Æ„°8ï•¨2J$4b6ccb91-9ab1-441e-b10f-7cca71a146a4
+y
+java:S1128"6Remove this unused import 'org.openqa.selenium.Alert'.(Àã¥‰8ï•¨2J$a6e7aa92-4074-43ec-8d10-f4029056b974
+–
+java:S1128
+"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ8ï•¨2J$4a938458-7f59-494f-be6b-0df1eb904e48
+Œ
+java:S1128"IRemove this unused import 'org.openqa.selenium.support.ui.WebDriverWait'.(¥÷ó8ï•¨2J$3f481bb9-5673-43b3-8079-206297dfe228
+q
+java:S1128".Remove this unused import 'org.testng.Assert'.(Ø£ÿ§8ï•¨2J$d82810f3-aa16-4763-8e39-fc3a004699b7
+w
+java:S1128"/Remove this unused import 'java.time.Duration'.(ëá¯‰üÿÿÿÿ8ï•¨2J$456ab3de-f87d-482c-893a-dc08f9c42bb1

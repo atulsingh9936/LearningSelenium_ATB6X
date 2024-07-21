@@ -1,0 +1,14 @@
+
+Ê
+java:S3577"†Rename class "lab_317" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(ìÍèÙ8ğ¡‹„2J$92676326-41be-4879-b65e-40e4f8411a0b
+~	java:S1250"<This block of commented-out lines of code should be removed.(ç§±8ñ¡‹„2J$a0ac16f3-69f4-478a-9d4f-b4bb9386e523
+~	java:S1256"<This block of commented-out lines of code should be removed.(œ£ŞŸ8ñ¡‹„2J$11c7ab7a-8dc8-45a8-900e-983336dbea85
+g
+java:S2925:"$Remove this use of "Thread.sleep()".(„«ë¼8ñ¡‹„2J$6cfefacd-bd1b-4526-94b9-3f2f140505e6
+ƒ	java:S125A"<This block of commented-out lines of code should be removed.(•É—òÿÿÿÿÿ8ñ¡‹„2J$a365ed78-4db1-44fc-b580-075f37ed44e3
+y
+java:S1874b"6Remove this use of "implicitlyWait"; it is deprecated.(µ÷®8¢‹„2J$e05def5c-46fd-4203-b21e-635b208436e2
+g
+java:S2925k"$Remove this use of "Thread.sleep()".(¬Æ„°8¢‹„2J$addf7b0e-035f-4ec7-a481-cb18b305eb92
+}
+java:S1128":Remove this unused import 'org.openqa.selenium.WebDriver'.(ñšÿÀ8¢‹„2J$b5d1328e-dc6c-47d1-b6fe-4775aaa62b20

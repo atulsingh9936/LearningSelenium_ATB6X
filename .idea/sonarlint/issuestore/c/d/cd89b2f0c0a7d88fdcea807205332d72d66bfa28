@@ -1,0 +1,13 @@
+
+ 
+java:S3577"ÜRename class "Lab_325" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(„¥Ñ⁄8íˇÖßç2J$5df9e299-588e-483e-9019-c0072190a701
+∫
+java:S1130 "wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(¿±±Ñ8§‡§ßç2J$f476b8fc-fe8e-409d-af97-7b9cc505cc79
+}	java:S125."<This block of commented-out lines of code should be removed.(Âﬁ‡#8íˇÖßç2J$1c4dc106-713c-4936-86c1-427cefae9cd8
+É	java:S1259"<This block of commented-out lines of code should be removed.(∆Å´Å˛ˇˇˇˇ8ôæòßç2J$819bbb82-8d39-4d25-acd7-381da5668647
+~	java:S125<"<This block of commented-out lines of code should be removed.(º¥˜î8û–ßßç2J$db190f3b-7818-4c34-9be4-69ae38a2a7f5
+É	java:S125?"<This block of commented-out lines of code should be removed.(Ç—ó‡¸ˇˇˇˇ8î∞èßç2J$3a4bea29-6ec3-4ef1-a469-ec7c9f5e9997
+g
+java:S2925K"$Remove this use of "Thread.sleep()".(¨∆Ñ∞8îˇÖßç2J$45d4aaa3-ea94-409e-aa34-edd089b45ccd
+ä
+java:S1128"BRemove this unused import 'org.openqa.selenium.support.ui.Select'.(¥ó‚€¯ˇˇˇˇ8•‡§ßç2J$74a2b22c-1747-403e-89f3-41c108799aa6
