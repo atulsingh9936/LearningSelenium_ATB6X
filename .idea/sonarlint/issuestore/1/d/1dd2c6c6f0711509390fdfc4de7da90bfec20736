@@ -1,3 +1,11 @@
 
 Ğ
-java:S3577"‡Rename class "Project2" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(ª‰“üÿÿÿÿ8™ıŞÇŒ2J$cbf4e45e-9061-49cc-a7a8-d29da62b646c
+java:S3577"‡Rename class "Project2" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(ª‰“üÿÿÿÿ8­¸‘°2J$fa80fad5-510d-4b7f-bc5d-03a2d39e2154
+~	java:S1251"<This block of commented-out lines of code should be removed.(ö¹ûæ8­¸‘°2J$49007b23-58a1-45b2-ae46-942209dd642b
+p
+java:S1128	"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ8óÇ¦°2
+f
+java:S1128
+"IRemove this unused import 'org.openqa.selenium.support.ui.WebDriverWait'.(¥÷ó8óÇ¦°2
+Q
+java:S1128"/Remove this unused import 'java.time.Duration'.(ëá¯‰üÿÿÿÿ8óÇ¦°2

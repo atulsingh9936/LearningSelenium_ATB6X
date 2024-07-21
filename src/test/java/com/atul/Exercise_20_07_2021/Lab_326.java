@@ -41,13 +41,6 @@ public class Lab_326 {
         checkboxes.get(0).click();
         checkboxes.get(1).click();
 
-
-
-
-
-
-
-
     }
 
     @AfterTest
