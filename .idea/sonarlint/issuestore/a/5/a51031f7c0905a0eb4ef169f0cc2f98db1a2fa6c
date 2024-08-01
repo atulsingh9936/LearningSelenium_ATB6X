@@ -8,3 +8,5 @@ W
 java:S1117D":Rename "driver" which hides the field declared at line 23.(ê’Ü¢8¦¨—¤2
 A
 java:S2925L"$Remove this use of "Thread.sleep()".(¬Æ„°8¦¨—¤2
+]
+java:S1128"@Remove this unused import 'com.atul.WaitHelper.checkVisibility'.(ºâ‡Ç8ÓÿŸ¤2

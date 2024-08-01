@@ -1,19 +1,19 @@
 
 Ê
-java:S3577"†Rename class "Lab_324" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(ŒŒÂ“8ª†œ¥2J$aa0dfd47-5cdd-4b29-99db-788bb6a22885
+java:S3577"†Rename class "Lab_324" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(ŒŒÂ“8ª†œ¥2J$2db683d1-7e3a-4ee7-ba8f-b1b2390b9419
 ¿
-java:S1130#"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(±¬ªâûÿÿÿÿ8«†œ¥2J$d3f8e592-9a29-4b1e-abde-25ed377e05a2
-~	java:S125."<This block of commented-out lines of code should be removed.(à¿»Á8«†œ¥2J$e6761a55-877a-4a95-b8b5-b52ace2910a3
+java:S1130#"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(±¬ªâûÿÿÿÿ8«†œ¥2J$ed254184-7701-478e-b25d-a4872736837a
+~	java:S125."<This block of commented-out lines of code should be removed.(à¿»Á8«†œ¥2J$fecaf5bc-f7ac-4d28-a385-83589c97d2f2
 g
-java:S29259"$Remove this use of "Thread.sleep()".(¬Æ„°8«†œ¥2J$2e010bd7-9dd2-454b-ba80-0d485298b6f7
+java:S29259"$Remove this use of "Thread.sleep()".(¬Æ„°8«†œ¥2J$ed3601f3-0a3f-4294-803c-ed8af414da07
 Š
-java:S1128"GRemove this unused import 'org.openqa.selenium.NoSuchElementException'.(“®ü‰8«†œ¥2J$ec509363-1356-4da7-99e5-ac226c43a545
+java:S1128"GRemove this unused import 'org.openqa.selenium.NoSuchElementException'.(“®ü‰8«†œ¥2J$bc5094df-48f1-42bb-b27d-839fc7af4161
 ‰
 java:S1128
-"FRemove this unused import 'org.openqa.selenium.support.ui.FluentWait'.(Æ÷·Ü8«†œ¥2J$91c36cef-4938-424b-b83d-8481b2a630a0
+"FRemove this unused import 'org.openqa.selenium.support.ui.FluentWait'.(Æ÷·Ü8«†œ¥2J$db776fdd-088a-426b-90ad-688d8915bc47
 ˆ
-java:S1128"@Remove this unused import 'org.openqa.selenium.support.ui.Wait'.(‹ÇÓ™ùÿÿÿÿ8«†œ¥2J$11e4dd0f-ef74-415a-a407-016b6a23ee44
+java:S1128"@Remove this unused import 'org.openqa.selenium.support.ui.Wait'.(‹ÇÓ™ùÿÿÿÿ8«†œ¥2J$912b5cdb-6815-481b-840b-f1a3a00df309
 q
-java:S1128".Remove this unused import 'org.testng.Assert'.(Ø£ÿ§8«†œ¥2J$f77dfc11-4fb5-41dd-9524-ca69fa112d75
+java:S1128".Remove this unused import 'org.testng.Assert'.(Ø£ÿ§8«†œ¥2J$937b9cf6-56e3-4a2c-a1d0-0c80220c3e99
 w
-java:S1128"/Remove this unused import 'java.time.Duration'.(ëá¯‰üÿÿÿÿ8«†œ¥2J$3eae6f38-9221-4307-bd0d-12aab7ef448a
+java:S1128"/Remove this unused import 'java.time.Duration'.(ëá¯‰üÿÿÿÿ8«†œ¥2J$c3cb3e7d-f356-4a2f-b43b-55ed9fac76d4

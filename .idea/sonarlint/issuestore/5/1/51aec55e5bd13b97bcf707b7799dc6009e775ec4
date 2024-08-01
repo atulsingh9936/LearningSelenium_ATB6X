@@ -1,10 +1,10 @@
 
 Ï
-java:S3577"†Rename class "Lab_321" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(Ò‹ñŒüÿÿÿÿ8À©½Ÿ2J$93a10234-7376-4210-8d63-da698f276eca
+java:S3577"†Rename class "Lab_321" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(Ò‹ñŒüÿÿÿÿ8À©½Ÿ2J$2013a72e-0086-4dc8-8ad9-6bb8961adb91
 ¿
-java:S1130""wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(±¬ªâûÿÿÿÿ8À©½Ÿ2J$a81b8380-1a2d-4a8c-ac85-d2122434eb5c
-~	java:S125("<This block of commented-out lines of code should be removed.(“ı«8À©½Ÿ2J$eded5427-9e6a-401c-92ba-0f82e20c5c57
+java:S1130""wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(±¬ªâûÿÿÿÿ8À©½Ÿ2J$2d7cf5a5-e67b-4223-8e47-91d97bcf9fe5
+~	java:S125("<This block of commented-out lines of code should be removed.(“ı«8À©½Ÿ2J$e861e962-ec1b-49b7-a608-b590b3145971
 g
-java:S2925G"$Remove this use of "Thread.sleep()".(¬Æ„°8À©½Ÿ2J$724658af-cc71-4207-9a7e-05a062a60fed
+java:S2925G"$Remove this use of "Thread.sleep()".(¬Æ„°8À©½Ÿ2J$e1f8b364-048d-4230-b823-6f3133e407e3
 }
-java:S1128":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş8À©½Ÿ2J$4028f302-9b05-423f-beda-63dee8a512c9
+java:S1128":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş8À©½Ÿ2J$e8dc0fdc-1b6d-41b4-8438-8f123d8d102d

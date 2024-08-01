@@ -1,0 +1,7 @@
+
+Ï
+java:S3577"†Rename class "Lab_330" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(Ó›Áöüÿÿÿÿ8Ë°Ñµ2J$ebfb6a1b-dda5-4bd8-9228-c8757f4ce4ea
+™
+java:S1130 "wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(û¼¸ßûÿÿÿÿ8¢ôÑµ2
+g
+java:S2925C"$Remove this use of "Thread.sleep()".(¬Æ„°8Ú°Ñµ2J$fab32ce8-fd6c-4b5e-bc5b-e4a537d04cd8

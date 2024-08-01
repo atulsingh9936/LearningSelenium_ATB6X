@@ -1,6 +1,8 @@
 
 Ê
-java:S3577"†Rename class "Lab_322" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(ù–’ı8Ğù”£2J$dc16efae-a9c1-47ae-a221-77afce69b019
-~	java:S125%"<This block of commented-out lines of code should be removed.(“ı«8Ğù”£2J$2e48f015-3e31-4b44-9fac-218b324b897d
+java:S3577"†Rename class "Lab_322" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(ù–’ı8Ğù”£2J$7a8eb6cc-7df0-4e67-90dd-ac27bb554056
+¿
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(±¬ªâûÿÿÿÿ8ÑıŸ¤2J$fcf84885-fa15-41b9-8e47-a5708705b836
+~	java:S125%"<This block of commented-out lines of code should be removed.(“ı«8Ğù”£2J$effb73ba-3221-4fdc-857c-7ff3ef427128
 g
-java:S2925A"$Remove this use of "Thread.sleep()".(¬Æ„°8Ğù”£2J$ec57bfd7-6f13-4172-bf74-36d6f411a35f
+java:S2925A"$Remove this use of "Thread.sleep()".(¬Æ„°8Ğù”£2J$3b97ae1d-8f9f-4d35-beed-a28caebf8e66
